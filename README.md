@@ -38,6 +38,7 @@ The Weather Application is a user-friendly and feature-rich web application that
 * variable names to be given as to be understandable by others.
 
 ### Third Parties Used
+* open weather API's - https://api.openweathermap.org/data/2.5/weather?q='+inputval.value+'&appid='+apik
 * Angular Material has been used for the UI components
 * BootStrap for Responsive Designs
 
